@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "akai": {
+      "command": "npx",
+      "args": [],
+      "transport": "http",
+      "url": "https://deel.akai.run/api/external/v1/mcp",
+      "headers": {
+        "Authorization": "ak_ltsoyqWhBvSVf2bT17SfnrVDJIXt-htM"
+      }
+    }
+  }
+}
